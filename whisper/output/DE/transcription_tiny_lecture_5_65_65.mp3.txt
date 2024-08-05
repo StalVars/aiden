@@ -1,1 +1,0 @@
-  Wieder wird die Belohnung entlang des Pfades von N4 über N1 bis zur Wurzel des Baumes zurückpropagiert. Für jeden Knoten entlang dieses Pfades erhöhen sich die Ku-Werte um 0.3 und der Besuchszilla um 1.

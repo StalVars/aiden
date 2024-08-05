@@ -1,1 +1,0 @@
-  Nachdem wir nun die notwendigen Grundbegriffe und Konzepte eingeführt haben, können wir damit beginnen darüber zu sprechen wie man Suchprobleme modelliert.

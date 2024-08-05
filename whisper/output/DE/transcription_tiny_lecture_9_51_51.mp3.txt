@@ -1,1 +1,0 @@
-  Diese Folie zeigt den Resoluzionsbaum für die ersten beiden Resoluzionsschritte in der Wissensbasis der Wumpuswelt. Die Resolution wird an der Einheitsklausel, Not B11, und anschließend an der Einheitsklausel, Not S11 durchgeführt. Die Linien führen von den resolvierten Klauseln zur Resolvente. Jeder Auflösungsschritt fügt dem Auflösungsbaum eine neue Ebene hinzu.

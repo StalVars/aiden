@@ -1,1 +1,0 @@
-  Wir haben ein Literal als eine Atomare-Proposition oder Kurzatom oder die Negation davon definiert. Eine Klausel ist eine Disjunktion von Literalen.

@@ -1,1 +1,0 @@
-  Diese Folie zeigt den Pseudocot des genetischen Algorithmus. Er unterscheidet sich vom vorherigen Beispiel durch die Variante der Kreuzung, bei der nur ein Nachkomme erzeugt wird und die restlichen Teile der Gene verworfen werden. Außerdem werden die Individuen für die Evolution zufällig ausgewählt und nicht auf Basis einer Rangfolge.

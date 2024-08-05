@@ -1,1 +1,0 @@
-  Hallo und herzlich willkommen zur Vorlesung, heuristische Suche, im Rahmen des Kurses zur künstlichen Intelligenz.

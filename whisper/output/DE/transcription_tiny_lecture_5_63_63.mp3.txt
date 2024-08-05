@@ -1,1 +1,0 @@
-  Es gibt noch einen unerforschten Kindknoten von N1, der durch die noch nicht ausgeführte A4 erreicht werden kann. Der Knoten N4 wird expandiert, indem die A4 angewendet wird und die N und QWT werden gleich 0 gesetzt.

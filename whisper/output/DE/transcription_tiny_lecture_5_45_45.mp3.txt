@@ -1,1 +1,0 @@
-  Nun folgt die Rückpropagierungsphase. UCT propagiert die Belohnung von 0.1 zurück nach oben zum Wurzelknoten. Der Knoten N2 erhält einen QWert von 0.1, und die Anzahl der Besuche N wird auf 1 erhöht. Beim Wurzelknoten N0 wird der QWert um 0.1 auf 0.3 erhöht. Die Anzahl der Besuche des Wurzelknotens wird ebenfalls um 1 erhöht, und hat jetzt einen N-Wert von 2.

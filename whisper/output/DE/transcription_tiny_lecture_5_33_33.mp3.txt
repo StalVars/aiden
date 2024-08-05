@@ -1,1 +1,0 @@
-  Diese Folie fasst den UCT-Algoritmus mit seinen vier Phasen zusammen. Sie können die vollständige Beschreibung dieses Algorithmus vom CMS herunterladen.

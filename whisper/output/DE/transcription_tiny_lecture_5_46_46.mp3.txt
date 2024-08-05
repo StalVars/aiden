@@ -1,1 +1,0 @@
-  Nach der zweiten Runde sieht der Suchbaum aus wie auf dieser Folie gezeigt. UCT setzt mit der dritten Eteration fort.

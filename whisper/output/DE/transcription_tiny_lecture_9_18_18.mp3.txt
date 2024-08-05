@@ -1,1 +1,0 @@
-  Logische Implikationen sind für die Modellierung von Wissen sehr wichtig. Wir verwenden sie, um Regeln zu beschreiben, die durch eine Wendananweisung beschrieben werden. Die Konsequenz oder Schlussfolgerung folgt, wenn die Vorbedienung oder Prämisse der Implikation erfüllt ist.

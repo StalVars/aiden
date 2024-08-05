@@ -1,1 +1,0 @@
-  Der UCT-Algoritmus wird daher vorerst aufhören, den Teilbaum ab N1 zu erkunden. Das liegt daran, dass die letzte Simulation die Belohnung nicht erhöht hat, so dass der linke Teilbaum nicht mehr so viel versprechend aussieht. Stattdessen wird der Algorithmus auf der rechten Seite fortfahren. Er wählt den Knoten entzweite.

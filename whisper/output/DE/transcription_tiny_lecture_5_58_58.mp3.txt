@@ -1,1 +1,0 @@
-  Der Algorithmus führt eine Simulation ausgehend vom Knoten in 5 aus und erreicht einen Zustand es gehen mit der Belohnung 0.1.

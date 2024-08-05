@@ -1,1 +1,0 @@
-  In der Whitebox Beschreibung wird eine zugängliche, aber kompakte Beschreibung des Zustandsraumes mit den Zuständen, Aktionen, Aktionskosten und Zielzuständen angegeben, zum Beispiel in der Form eines Grafen. Wir haben bereits eine solche Whitebox Beschreibung im Beispiel der Rumänienreise gesehen.

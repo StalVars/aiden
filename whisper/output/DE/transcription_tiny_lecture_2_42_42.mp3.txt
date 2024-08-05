@@ -1,1 +1,0 @@
-  Dieses Video zeigt das resultierende Verhalten des Robotters. Wenn eine Person näher kommt und der Roboter diese erkennt, spricht er eine Begrüßung.

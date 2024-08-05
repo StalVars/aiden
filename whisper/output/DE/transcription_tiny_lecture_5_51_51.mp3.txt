@@ -1,1 +1,0 @@
-  UCT führt eine Simulation von diesem Knoten aus. Die Simulation endet schließlich in einem Entzustand. Nehmen wir an, dass die Belohnung dieses mal 0 ist.

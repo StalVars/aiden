@@ -1,1 +1,0 @@
-  Nehmen wir an, dass in diesem Knoten nur eine einzige anwendbare Aktion A1 möglich ist. UCT führt diese Aktion aus und generiert den Kindknoten n5 mit den N und Q werden gleich 0.

@@ -1,1 +1,0 @@
-  Diese Video zeigt ein einfaches Reflexverhalten im Pepper Roboter. Pepper hat einen eingebauten Berührungssensor in seinem Kopf. Wenn man den Kopf berührt, wird auf die Berührung auf verschiedene Weise reagiert, was ein Beispiel für einen einfachen zuverlich gewählten Reflex ist.
