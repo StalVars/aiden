@@ -1,0 +1,1 @@
+  UCT wählt nun den Knoten mit dem höheren UCB1-Wert aus, der in diesem Fall in eins ist.

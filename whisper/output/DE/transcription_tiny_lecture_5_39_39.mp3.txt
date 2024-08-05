@@ -1,0 +1,1 @@
+  Jetzt propagiert UCT diese Belohnung zurück bis zum Wurzelknoten. Es geht zurück zum Knoten N1, den es ausgewählt hat und aktualisiert von dort aus die Kuh und Enverte. Der Kuhwert von N1 ist 0.2 und UCT hat diesen Knoten einmal besucht, also ist sein N1.

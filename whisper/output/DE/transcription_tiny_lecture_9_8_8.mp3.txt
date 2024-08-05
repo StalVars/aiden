@@ -1,0 +1,1 @@
+  Der Agent kann mehrere Aktionen ausführen. Er kann in der Richtung, in die er schaut, vorwärts gehen oder sich nach links oder rechts drehen. Er kann ein Objekt aufheben oder den Pfeil abschießen. Wir wollen wissen, wie der Agent die Höhle sicher erkunden, das Gold finden und die Höhle sicher verlassen kann.

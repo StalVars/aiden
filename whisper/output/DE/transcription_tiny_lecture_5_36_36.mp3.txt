@@ -1,0 +1,1 @@
+  UCT expandiert nun diesen Wurzelknoten. Es gibt noch unbesuchte Kinder des Wurzelknotens. UCT will zufällig eine der unversuchten A1 oder A2 ausnehmen wir an, das A1 ausgewählt wird. Die A1 führt zum Kind oder Nachfolgerzustand S1. UCT erstellt einen neuen Kindknoten N1, der diesem Zustand S1 entspricht, wobei die N und Kuhwerte dieses Knotens gleich neu sind.

@@ -1,0 +1,1 @@
+  UCT führt eine Simulation ausgehend vom Knoten in 4 durch und erreicht einen Entzustand mit der Belohnung 0.3.

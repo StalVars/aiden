@@ -1,0 +1,1 @@
+  UCT ist jetzt wieder an der Wurzel des Suchbaums. Diese Folie zeigt den aktuellen Suchbaum. Die erste Eterration ist abgeschlossen, und UCT beginnt die zweite Eteration.

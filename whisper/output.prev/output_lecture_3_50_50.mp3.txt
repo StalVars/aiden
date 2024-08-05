@@ -1,0 +1,17 @@
+Filename : lecture_3_50_50.mp3
+=======================================================
+Time taken for tiny: 35.21726417541504
+tiny:  Let us look at a recursive algorithm for depth-limited search performing tree search. The limit counter is marked by a red arrow. In each recursive expansion, the algorithm counts down the predefined limit. It continues with a neighboring node when reaching limit zero and it has not found a solution by then. It may also stop earlier if the goal test has succeeded. If the depth limit is set to a two-small value, then this search algorithm will be incomplete, and it will not be able to find a solution.
+---------------------------------------
+Time taken for base: 11.83619737625122
+base:  Let us look at a recursive algorithm for depth-limited search performing tree search. The limit counter is marked by a red arrow. In each recursive expansion, the algorithm counts down the predefined limit. It continues with a neighboring node when reaching limit zero and it has not found a solution by then. It may also stop earlier if the goal test has succeeded. If the depth limit is set to a two-small value, then this search algorithm will be incomplete, and it will not be able to find a solution.
+---------------------------------------
+Time taken for small: 16.66059422492981
+small:  Let us look at a recursive algorithm for depth-limited search performing tree search. The limit counter is marked by a red arrow. In each recursive expansion, the algorithm counts down the predefined limit. It continues with a neighboring node when reaching limit 0 and it has not found a solution by then. It may also stop earlier if the goal test has succeeded. If the depth limit is set to a too small value, then this search algorithm will be incomplete, and it will not be able to find a solution.
+---------------------------------------
+Time taken for medium: 27.91891312599182
+medium:  Let us look at a recursive algorithm for depth-limited search performing tree search. The limit counter is marked by a red arrow. In each recursive expansion, the algorithm counts down the predefined limit. It continues with a neighboring node when reaching limit 0 and it has not found a solution by then. It may also stop earlier if the goal test has succeeded. If the depth limit is set to a too small value, then this search algorithm will be incomplete and it will not be able to find a solution.
+---------------------------------------
+Time taken for large: 46.53452014923096
+large:  Let us look at a recursive algorithm for depth-limited search performing tree search. The limit counter is marked by a red arrow. In each recursive expansion, the algorithm counts down the predefined limit. It continues with a neighboring node when reaching limit 0 and it has not found a solution by then. It may also stop earlier if the goal test has succeeded. If the depth limit is set to a too small value, then this search algorithm will be incomplete and it will not be able to find a solution.
+

@@ -1,0 +1,1 @@
+  Diese Folie zeigt die korrekte Anwendung der Auflösungsregel für das Beispiel, bei dem in jedem Schritt nur ein einziges Paar von komplementären Literalen aufgelöst wird. Es ist nicht möglich, die Lehre Klausel abzuleiten.

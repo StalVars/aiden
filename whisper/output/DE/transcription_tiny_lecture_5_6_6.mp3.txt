@@ -1,0 +1,1 @@
+  Ein lokaler Suchalgorit muss beginnt irgendwo im Suchraum, verwendet eine Bewertungsfunktion für jeden Knoten und bewegt sich zu besser bewerteten Nachbacknoten. Lokale Suchalgoritmen eignen sich für Probleme, bei denen es nur auf den Lösungszustand ankommt, nicht aber auf die Pfadkosten, um diesen Lösungszustand zu erreichen.

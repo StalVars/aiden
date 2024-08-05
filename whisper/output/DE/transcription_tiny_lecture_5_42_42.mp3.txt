@@ -1,0 +1,1 @@
+  UCT expandiert erneut den Ausgangszustand, da dieser noch unerforschte Kindknoten hat. Diesmal wird die letzte im Zustand S0 noch anwendbare Aktion A2 ausgewählt und ein neuer Knoten N2 für den Nachfolge Zustand S2 erstellt mit den Werten N und Kugelig 0.

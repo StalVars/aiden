@@ -1,0 +1,1 @@
+  Nachdem wir jetzt gesehen haben, wie man Suchprobleme modellieren kann, können wir damit beginnen, uns systematische Suchstrategien anzusehen.

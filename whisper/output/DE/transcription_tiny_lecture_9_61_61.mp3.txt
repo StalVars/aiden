@@ -1,0 +1,1 @@
+  Hier sehen wir die Implementierung der Unit-Propagate-Funktion. Die Unit-Propagate-Funktion prüft, ob er eine Lehre-Klausel enthält. In diesem Fall ist F unerfüllbar und DPPL bricht ab und gibt einen Konflikt zurück. Wenn keine Lehre-Klausel in F enthalten ist, setzt die Unit-Propagate-Funktion alle Unit-Klauseln auf Warr und entfernt sie aus der Formel F.

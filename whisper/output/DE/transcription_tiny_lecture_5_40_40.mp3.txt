@@ -1,0 +1,1 @@
+  UCT setzt die Rückpropagierungsphase fort bis zum Wurzelknoten N-0 des Suchbaums. Dieser Knoten wurde einmal besucht und erhält ebenfalls den Q-Wert von 0 den 2.

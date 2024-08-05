@@ -1,0 +1,1 @@
+  UCT muss eine weitere Auswahlrunde durchführen, da alle Aktionen, die im Zustand des Wurzelknotens ausfübers sind, bereits versucht wurden. Die UCB1-Werte der Kindknoten des Wurzelknotens werden auf der Grundlage der Belohnung der letzten Simulation und der erhöhten Besuchswerte aktualisiert. Für beide Knoten N1 und N2 erhält UCT einen Wert von 1.77.

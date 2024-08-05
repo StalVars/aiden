@@ -1,0 +1,16 @@
+Filename : lecture_3_3_3.mp3
+=======================================================
+Time taken for tiny: 35.21726417541504
+tiny:  The recommended reading is essentially Chapter 3 of our AIMA textbook. We list here all the subcapters which cover the material discussed in this lecture.
+---------------------------------------
+Time taken for base: 11.83619737625122
+base:  The recommended reading is essentially Chapter 3 of our AIMA textbook. We list here all the subchapters which cover the material discussed in this lecture.
+---------------------------------------
+Time taken for small: 16.66059422492981
+small:  The recommended reading is essentially Chapter 3 of our AIMA textbook. We list here all the subchapters which cover the material discussed in this lecture.
+---------------------------------------
+Time taken for medium: 27.91891312599182
+medium:  The recommended reading is essentially chapter 3 of our AIMA textbook. We list here all the subchapters which cover the material discussed in this lecture.
+---------------------------------------
+Time taken for large: 46.53452014923096
+large:  The recommended reading is essentially chapter 3 of our AIMA textbook. We list here all the subchapters which cover the material discussed in this lecture.

@@ -1,0 +1,1 @@
+  Diese Folie zeigt im Pseudocote des ersten Algorithmus, der die Idee der Armeisenkollonie Optimierung einführt.

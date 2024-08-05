@@ -1,0 +1,1 @@
+  Diese Folie fasst die Eigenschaften der lokalen und stochastischen Suchalgoritmen zusammen, die wir in dieser Vorlesung besprochen haben.

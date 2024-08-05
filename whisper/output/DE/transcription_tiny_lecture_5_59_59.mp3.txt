@@ -1,0 +1,1 @@
+  Nun propagiert UCT diesen Wert wieder zurück zum Wurzelknoten des Baums. Die Kuhwerte aller Knoten bis zum Wurzelknoten erhöhen sich um 0.1, und die Besuchstzellern der Knoten entlang dieses Pfades wird um 1 erhöht.

@@ -1,0 +1,1 @@
+  Dieser Wert wird im Suchbaum zurückpropagiert. Diesmal ist die Belohnung gleich 0, was bedeutet, dass sich die Q-Werte nicht ändern. Die Anzahl der Besuche wird jedoch um eins erhöht.

@@ -1,0 +1,1 @@
+  Die iterativwertiefende Tiefensuche übernimmt die Idee der tiefen begrenzten Suche, erhöhlt aber in jeder Iteration die Suchtiefe um eins. Sie führt also mehrere Runden der tiefen begrenzten Suche mit zunehmendertiefe in jeder Runde durch, bis und endlich oder eine tiefen Grenze erreicht ist.

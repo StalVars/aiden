@@ -1,0 +1,1 @@
+  Wir können die Resolution auf die Wissensbasis der Wumpuswelt anwenden, die die Regeln und aktuelle Wahrnehmungen enthält, und beweisen, dass der Agent die nächsten beiden Benachbartenfelder sicher betreten kann.

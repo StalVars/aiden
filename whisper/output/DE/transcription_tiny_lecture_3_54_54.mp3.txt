@@ -1,0 +1,1 @@
+  Auf dieser Folie sehen Sie eine Illustration der Suchstrategie der iterativwertiefenden Tiefensuche für die Grenze 3. Es ist klar ersichtlich, dass dieser Algorithmus alle vorherigen Suchschritte wiederholt. Die Frage ist, macht die Sinn?

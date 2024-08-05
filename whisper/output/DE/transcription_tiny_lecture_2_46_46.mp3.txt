@@ -1,0 +1,1 @@
+  Eine einfache Variante des Lern-Elements ist auf dieser Folie zu stehen. Es ermöglicht einem Pepperroboter, neue Gesicht zu lernen und sich die dazugehörigen Namen zu merken. Wenn Pepper das Gesicht erneut erkennt, wird er die Person mit dem gelernten Namen begrüßen.

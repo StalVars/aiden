@@ -1,0 +1,1 @@
+  Die empfohlene Literatur umfasst im Wesentlichen Kapitel 3 unseres Lehrbuchs. Hier sind alle Unterkapitel aufgelistet, die den in dieser Vorlesung behandelten Stoff abdecken. Wir konzentrieren uns auf die Unterkapitel 3.4, 3.5 und 3.6. Für den Algorithmus der Biedirektionalen Suche haben wir optionale Literatur hinweise.

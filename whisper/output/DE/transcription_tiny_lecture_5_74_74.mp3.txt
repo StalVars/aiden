@@ -1,0 +1,1 @@
+  Hier sehen wir wieder die Cross-Operation noch einmal. Das Durchtrennen einer Zahlenfolge ist gleich bedeutend mit dem Durchtrennen der beiden Schachbretter und dem anschließenden wieder zusammenkleben der verschiedenen Teile.

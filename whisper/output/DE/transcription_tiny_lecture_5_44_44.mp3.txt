@@ -1,0 +1,1 @@
+  UCT führt wieder eine Simulation, diesmal vom Knoten N2, durch. Es erreicht einen Entzustand des G und erhält eine Belohnung von Nulten 1.

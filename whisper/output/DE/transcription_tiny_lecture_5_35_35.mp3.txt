@@ -1,0 +1,1 @@
+  Schauen wir uns nun einen Beispielsuchlauf von uct an. Der Algorithmus beginnt mit der Auswahl und Erzeugung des Wurzelknotens, der dem Ausgangszustand entspricht. Sowohl der N als auch der Q-Wert dieses Knotens werden auf 0 gesetzt.

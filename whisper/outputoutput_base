@@ -1,0 +1,36 @@
+Filename : lecture_3_8_8.mp3
+Time taken for tiny: 55.5053186416626
+tiny:  Let us now look at an example of a state space in the vacuum cleaner world which we have already met in the last lecture. Recall that a vacuum cleaner agent is in a world consisting of two rooms. Each room either contains dirt or it does not contain dirt. Each of the orange rectangles represents a possible state of the vacuum cleaner world. In the initial state, which is marked in red, the vacuum cleaning agent is in the left room and dirt is only in the right room. In each state, the vacuum cleaner agent can either suck, hear denoted by s, move left, hear denoted by el, or move right, hear denoted by r these or all the possible actions in the vacuum cleaner world. Note that in some state, an action might not do anything. For example, if the agent moves left or sucks in the initial state, it simply stays in the same state. The transition relation is described through directed edges leading from one state to another or the same state.
+Time taken for base: 28.49668788909912
+base:  Let us now look at an example of a state space in the vacuum cleaner world which we have already met in the last lecture. Recall that a vacuum cleaner agent is in a world consisting of two rooms. Each room either contains dirt or it does not contain dirt. Each of the orange rectangles represents a possible state of the vacuum cleaner world. In the initial state, which is marked in red, the vacuum cleaning agent is in the left room and dirt is only in the right room. In each state, the vacuum cleaner agent can either suck, here denoted by S, move left, here denoted by L, or move right, here denoted by R these are all the possible actions in the vacuum cleaner world. Note that in some state, an action might not do anything. For example, if the agent moves left or sucks in the initial state, it simply stays in the same state. The transition relation is described through directed edges leading from one state to another or the same state.
+
+Filename : lecture_3_50_50.mp3
+Time taken for tiny: 55.5053186416626
+tiny:  Let us look at a recursive algorithm for depth-limited search performing tree search. The limit counter is marked by a red arrow. In each recursive expansion, the algorithm counts down the predefined limit. It continues with a neighboring node when reaching limit zero and it has not found a solution by then. It may also stop earlier if the goal test has succeeded. If the depth limit is set to a two-small value, then this search algorithm will be incomplete, and that will not be able to find a solution.
+Time taken for base: 28.49668788909912
+base:  Let us look at a recursive algorithm for depth-limited search performing tree search. The limit counter is marked by a red arrow. In each recursive expansion, the algorithm counts down the predefined limit. It continues with a neighboring node when reaching limit zero and it has not found a solution by then. It may also stop earlier if the goal test has succeeded. If the depth limit is set to a two-small value, then this search algorithm will be incomplete, and it will not be able to find a solution.
+
+Filename : lecture_3_20_20.mp3
+Time taken for tiny: 55.5053186416626
+tiny:  We have just seen that after two expansions we have a repeated state, a rat. Repeated states are created by loopy paths in the state's base graph, and, as we have already discussed, loopy path can never contribute to an optimal solution. This is because in search problems with positive action costs, any loop accumulates costs and visiting states repeatedly does not take the agent closer to the goal or open up new action-passbertys as we consider a static world.
+Time taken for base: 28.49668788909912
+base:  We have just seen that after two expansions we have a repeated state, a rat. Repeated states are created by loopy paths in the state space graph, and, as we have already discussed, loopy path can never contribute to an optimal solution. This is because in search problems with positive action costs, any loop accumulates costs and visiting states repeatedly does not take the agent closer to the goal or open up new action possibilities as we consider a static world.
+
+Filename : lecture_3_33_33.mp3
+Time taken for tiny: 55.5053186416626
+tiny:  Finally, we look at the third way of presenting a search problem, explicit descriptions. An explicit description of the vacuum cleaner agent can be seen here. The eight possible states of the state space are linked with all the possible transitions between the states. For this simple variant of the problem, we can easily fit this on one slide. But when adding for example more rooms, the size of such a representation would quickly be explode.
+Time taken for base: 28.49668788909912
+base:  Finally, we look at the third way of presenting a search problem, explicit descriptions. An explicit description of the vacuum cleaner agent can be seen here. The eight possible states of the state space are linked with all the possible transitions between the states. For this simple variant of the problem, we can easily fit this on one slide. But when adding for example more rooms, the size of such a representation would quickly explode.
+
+Filename : lecture_3_3_3.mp3
+Time taken for tiny: 55.5053186416626
+tiny:  The recommended reading is essentially Chapter 3 of our AIMA textbook. We list here all the sub-chCEQCH Actors which cover the material discussed in this lecture.
+Time taken for base: 28.49668788909912
+base:  The recommended reading is essentially Chapter 3 of our AIMA textbook. We list here all the subchapters which cover the material discussed in this lecture.
+
+Filename : demo_record.mp3
+Time taken for tiny: 55.5053186416626
+tiny:  and I take up today and I want to make sure that you're actually still there. So thank you. Okay, so let's talk through the code a little bit. And if any questions arise, let's talk about them. So just as a reminder, what we did last time, but very very small neural network, that takes it puts xx those are vectors of size 2, and then it applies, so I create this with my language, write a root for my Times on this vector is our數 of 2 so say that writing s is not a small Part 2, but somebody has this Let's say go float out that does it. So that's the neural network. And so if you apply this neural network to an import check this xx1, which is the vector.
+Time taken for base: 28.49668788909912
+base:  and I take up today and I want to make sure that you're actually still there. So thank you. Okay, so let's talk through the code a little bit. And if any questions arise, let's talk about them. So just as a reminder, what we did last time, a very, very small neural network that takes inputs, xx, those are vectors of size two. And then it applies, it multiplies some weight matrix W, which is 2 by 2 matrix with X, that gives me a 2 by 2, a vector of length 2. I will run this through the sigmoid function, which is this nonlinear function here, that again gives me a vector of size 2. And then in the end, I multiply that with a 1 by 2 matrix V, that will give me a 1 by 1, well, a vector of length 1, Y. And I just read that it's the sigmo float out that it has. So that's the neural network. And so if you apply this neural network to an input, you expect this xx1, which is a vector.
+

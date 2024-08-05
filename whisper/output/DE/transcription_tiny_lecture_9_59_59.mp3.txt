@@ -1,0 +1,1 @@
+  Wir werden nun den DPLL-Algoritmus besprechen, der die vorgestellten Techniken nutzt und ein korrektes und vollständiges Entscheidungsverfahren für die Aussagen logik darstellt.

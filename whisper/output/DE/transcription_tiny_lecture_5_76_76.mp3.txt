@@ -1,0 +1,1 @@
+  Genetische Algorithmen wurden ebenfalls erfolgreich zur Unterstützung des Trainings Neuronalernetze eingesetzt und werden in neueren Forschungsarbeiten auch verwendet, um neue neuronale Netzwerkarchitekturen zu generieren. Diese Folie verweist auf Referenzen und Links zur Elevante Literatur, falls sie sich näher damit befassen möchten.

@@ -1,0 +1,1 @@
+  Der erste Schritt besteht darin, die wissensbasis zusammenzustellen. Der Agent fügt alle Regeln, die aktuellen Wahrnehmungen und die Negation des Ziels, nicht OK21 und OK12, in Klausel Normalform hinzu. Wenn er mittels Resolution beweisen kann, dass diese wissensbasis unerfüllbar ist, weiß er, dass die Felder 1,2 und 2,1 sicher sind.
