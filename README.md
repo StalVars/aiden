@@ -5,3 +5,5 @@ This is the github code for the project AIDEN, the demo paper:
  The evaluation underscores AIDEN's potential to significantly enhance learning experiences by offering real-world application and rapid configurability to diverse learning materials. 
 
 Demo: http://aiden.ngrok.pro
+
+The datasets can be downloaded at : https://drive.google.com/drive/folders/1jSu_Q-VZkcU25ipZt1tT5eP-mvU73mM2
